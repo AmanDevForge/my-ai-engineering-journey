@@ -4,33 +4,64 @@
 
 Welcome to my GitHub! I'm documenting my journey into Artificial Intelligence and building my skills through continuous learning and practical projects.
 
-## 🚀 My Learning Journey
+## 👨‍💻 About Me
 
-- 📊 Learning Machine Learning and its practical applications.
-- 🧠 Exploring Natural Language Processing (NLP).
-- 🤖 Developing knowledge of Generative AI and Large Language Models.
-- ⚙️ Exploring AI Agents and intelligent automation.
+- 🎯 Aspiring AI Engineer with an interest in Machine Learning, Generative AI, and Agentic AI.
+- 📚 Currently developing my skills through structured learning and hands-on practice.
+- 💡 Interested in building practical AI applications and solving real-world problems.
+- 🚀 Focused on continuous learning, experimentation, and improving my development skills.
 
-## 🛠️ Technologies I'm Exploring
+## 🧠 My Learning Progress
 
-- Python
-- Machine Learning
-- Natural Language Processing
-- Generative AI
-- Git and GitHub
+### ✅ Completed
+
+- Python Programming
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Machine Learning Coursework
+
+### 🔄 Currently Working On
+
+- Machine Learning Practical Project
+- Improving my Git and GitHub workflow
+- Applying Python and Machine Learning concepts through hands-on practice
+
+### 📚 Exploring Next
+
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI and Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- LangChain and LangGraph
+- AI Agents and Multi-Agent Systems
+- Backend Development and API Integration
+- AI Application Development and Deployment
+
+*These are learning areas I plan to explore as I progress through my course. They are not all completed skills.*
+
+## 🛠️ Technologies & Tools
+
+**Programming:** Python
+
+**Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+
+**Machine Learning:** Scikit-learn
+
+**Development Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+
+## 📂 Projects
+
+I'm currently working on my Machine Learning practical project and organising my project work.
+
+I'll add documented projects here as I complete and review them.
 
 ## 🎯 My Goal
 
-To become a skilled AI Engineer by developing a strong foundation in machine learning, building real-world projects, and continuously exploring emerging AI technologies.
-
-## 📌 Featured Projects
-
-*Projects will be added here as I complete and document them.*
-
-## 🤝 Let's Connect
-
-- GitHub: [@AmanDevForge](https://github.com/AmanDevForge)
+My goal is to grow into an AI Engineer by developing strong foundations in programming, Machine Learning, Generative AI, and Agentic AI — and eventually gain practical industry experience through an internship.
 
 ---
 
-*Learning, building, and growing one project at a time.*
+⭐ Thanks for visiting my GitHub! Follow my journey as I learn, build, and grow in AI.
